@@ -31,7 +31,7 @@ import org.apache.spark.sql.Dataset
 import org.apache.spark.{SparkContext, TaskContext}
 
 object TrackerConf {
-  def apply(): TrackerConf = TrackerConf(0L, "python")
+//  def apply(): TrackerConf = TrackerConf(0L, "python")
 }
 
 /**
