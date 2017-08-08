@@ -10,7 +10,6 @@
 #include "./simple_dmatrix.h"
 #include "./simple_csr_source.h"
 #include "../common/common.h"
-#include "../common/io.h"
 
 #if DMLC_ENABLE_STD_THREAD
 #include "./sparse_page_source.h"
